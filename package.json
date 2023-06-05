@@ -1,5 +1,5 @@
 {
-  "name": "telegram_botid",
+  "name": "nodejs-web-scrapper",
   "version": "1.0.0",
   "description": " ",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gtchakama/telegram_botID.git"
+    "url": "git+https://github.com/gtchakama/nodejs-web-scrapper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gtchakama/telegram_botID/issues"
+    "url": "https://github.com/gtchakama/nodejs-web-scrapper/issues"
   },
-  "homepage": "https://github.com/gtchakama/telegram_botID#readme",
+  "homepage": "https://github.com/gtchakama/nodejs-web-scrapper#readme",
   "dependencies": {
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12",
